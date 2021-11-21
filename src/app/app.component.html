@@ -1,0 +1,6 @@
+<app-child [dataToChild]="dataFromParent" (transferEvent)="fetchDataFromChild($event)"></app-child>
+
+<h1 style="color: red;">{{childData}}</h1>
+<h1 style="color: green;">{{childDataVC}}</h1>
+
+<app-anotherchild></app-anotherchild>
