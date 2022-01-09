@@ -1,3 +1,7 @@
+# Overview
+
+This is a practice project based on angular 10.
+
 # Practice
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.3.
